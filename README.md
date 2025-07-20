@@ -27,17 +27,5 @@ O case simula o ambiente da **Quantum Finance**, uma fintech fictícia, e tem co
 
 ---
 
-## 📦 Como usar
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/<seu-usuario>/quantum-finance-trend-follower.git
-cd quantum-finance-trend-follower
-
-# 2. Crie o ambiente
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# 3. Execute o pipeline completo
-python main.py --config configs/default.yaml
+📜 Licença
+Distribuído sob a licença MIT — sinta-se à vontade para usar, modificar e distribuir para fins acadêmicos ou pessoais. Veja o arquivo LICENSE para mais detalhes.
