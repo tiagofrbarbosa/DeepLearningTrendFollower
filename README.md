@@ -29,3 +29,6 @@ O case simula o ambiente da **Quantum Finance**, uma fintech fictícia, e tem co
 
 📜 Licença
 Distribuído sob a licença MIT — sinta-se à vontade para usar, modificar e distribuir para fins acadêmicos ou pessoais. Veja o arquivo LICENSE para mais detalhes.
+
+🔖 Hashtags
+#DeepLearning #MachineLearning #Fintech #FIAP #TrendFollower #CNN #LSTM #TSFresh #GAF #SériesTemporais #Backtest #OpenSource
